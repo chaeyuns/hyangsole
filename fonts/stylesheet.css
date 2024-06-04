@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'Silvania';
+    src: url('Silvania.eot');
+    src: url('Silvania.eot?#iefix') format('embedded-opentype'),
+        url('Silvania.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rosie Brown Serif Demo';
+    src: url('RosieBrownSerifDemo.eot');
+    src: url('RosieBrownSerifDemo.eot?#iefix') format('embedded-opentype'),
+        url('RosieBrownSerifDemo.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Hahmlet';
+    src: url('Hahmlet-Medium.eot');
+    src: url('Hahmlet-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Hahmlet-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
